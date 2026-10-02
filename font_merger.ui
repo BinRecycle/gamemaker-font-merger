@@ -432,7 +432,8 @@ UndertaleModTool을 사용해 추출한 폰트를 사용합니다.</string>
            <item>
             <widget class="QCheckBox" name="ckbx_w_auto">
              <property name="toolTip">
-              <string>체크하면 원본 폰트 + 새 폰트 이미지 너비로 설정됩니다.</string>
+              <string>체크하면 원본 폰트와 새로 추가할 폰트 이미지 중
+이미지 너비가 더 큰 쪽으로 설정됩니다.</string>
              </property>
              <property name="text">
               <string>자동</string>
